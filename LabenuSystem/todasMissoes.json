@@ -1,0 +1,49 @@
+{
+  "nomeDaTurma": "Ana",
+  "idDaTurma": "22",
+  "dataDeInicio": "2000-10-10T02:00:00.000Z",
+  "dataDeTermino": "2001-10-10T03:00:00.000Z",
+  "listaDeDocente": [
+    {
+      "id": "3",
+      "nome": "Ivana",
+      "email": "ivana@labenu.com",
+      "dataDeNascimento": "2000-10-10T02:00:00.000Z",
+      "especialidades": [
+        "Backend",
+        "CSS"
+      ]
+    },
+    {
+      "id": "4",
+      "nome": "Natalia",
+      "email": "natalia@labenu.com",
+      "dataDeNascimento": "2000-10-10T02:00:00.000Z",
+      "especialidades": [
+        "Redux",
+        "Programacao Orientada a Objetos"
+      ]
+    }
+  ],
+  "listaDeEstudantes": [
+    {
+      "id": "1",
+      "nome": "Gabi",
+      "email": "gabi@labenu.com",
+      "dataDeNascimento": "2000-10-10T02:00:00.000Z",
+      "hobbies": [
+        "Tacar garrafas, Assistir star wars"
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "Vivi",
+      "email": "viv@labenu.com",
+      "dataDeNascimento": "2003-10-12T03:00:00.000Z",
+      "hobbies": [
+        "Cozinhar, Assistir Filmes"
+      ]
+    }
+  ],
+  "modulo": 3
+}
