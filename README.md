@@ -12,12 +12,12 @@ Sistema de gerenciamento de estudantes, docentes e turmas organização Labenu.
 
 <p align="center">
 
-  <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=REDUX"/>
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JAVASCRIPT"/>
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
 
 </p>
 
+</br>
 > Status do Projeto: Concluído :heavy_check_mark: 
 
 #### Requisitos obrigatórios
@@ -70,17 +70,9 @@ npm start
 <br>
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [Node](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Axios](https://alligator.io/react/axios-react/)
-- [AWS](https://aws.google.com/)
-- [express](https://expressjs.com/)
-- [jwt](https://jwt.io/)
-- [knex](http://knexjs.org/)
 - [moment](https://momentjs.com/docs/)
-- [uuid](https://www.uuidgenerator.net/)
-- [bcrypt](https://www.npmjs.com/package/bcryptjs)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+
 
 ## Desenvolvedor :computer:
 
