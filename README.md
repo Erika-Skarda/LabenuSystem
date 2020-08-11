@@ -21,7 +21,7 @@ Sistema de gerenciamento de estudantes, docentes e turmas organização Labenu.
 
 > Status do Projeto: Concluído :heavy_check_mark: 
 
-#### Requisitos obrigatórios
+### Requisitos obrigatórios
 Ele deve possuir, ao menos, as 3 entidades importantes:
 
 :file_folder: 1. Estudantes 
@@ -38,7 +38,7 @@ Ele deve possuir, ao menos, as 3 entidades importantes:
 
     O módulo pode assumir os valores de 1 a 7 ou `undefined`, indicando que as aulas dessa turma ainda não começaram. Para esse exercício, vamos considerar que existam dois tipos de turma: integral ou noturna. Há uma restrição para o nome das turmas noturnas: tem que terminar com `-na-night`.
 
-As funcionalidades básicas são:
+### #As funcionalidades básicas são:
 
 → Criar estudante;
 
@@ -68,7 +68,7 @@ Por último, suba a aplicação:
 npm start
 ```
 
-<br>
+
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [Typescript](https://www.typescriptlang.org/)
