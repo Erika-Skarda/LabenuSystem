@@ -38,7 +38,7 @@ Ele deve possuir, ao menos, as 3 entidades importantes:
 
     O módulo pode assumir os valores de 1 a 7 ou `undefined`, indicando que as aulas dessa turma ainda não começaram. Para esse exercício, vamos considerar que existam dois tipos de turma: integral ou noturna. Há uma restrição para o nome das turmas noturnas: tem que terminar com `-na-night`.
 
-### #As funcionalidades básicas são:
+### As funcionalidades básicas são:
 
 → Criar estudante;
 
@@ -57,7 +57,7 @@ Ele deve possuir, ao menos, as 3 entidades importantes:
 No terminal, clone o projeto: 
 
 ```
-git clonehttps://github.com/Erika-Skarda/API_Cookenu_2
+git clonechttps://github.com/Erika-Skarda/LabenuSystem.git
 ```
 Entre no projeto e instale as dependências através do comando:
 ```
