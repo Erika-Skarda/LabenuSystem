@@ -1,15 +1,14 @@
 #  <img  width='30' src='https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif'> Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações com backend com Node.js.
 
+<p align="center">
+  <img src="https://i.imgur.com/xUhQLtc.png"/>
+</p>
+
 <br><br>
 
 ## Projeto: LabenuSystem
 Sistema de gerenciamento de estudantes, docentes e turmas organização Labenu.
-
-
- <p align="center" >
-  <img width="20%" src="https://i.imgur.com/MagoMtL.png" />
-</p>
 
 <p align="center">
 
@@ -19,18 +18,20 @@ Sistema de gerenciamento de estudantes, docentes e turmas organização Labenu.
 
 </p>
 
+> Status do Projeto: Concluído :heavy_check_mark: 
+
 #### Requisitos obrigatórios
 Ele deve possuir, ao menos, as 3 entidades importantes:
 
-1. Estudantes 
+:file_folder: 1. Estudantes 
 
     Representa estudantes da nossa instituição. Eles devem possuir: id, nome, email, data de nascimento e os principais hobbies dele. 
 
-2. Docente
+:file_folder: 2. Docente
 
     Representa docentes da nossa instituição. Eles devem possuir: id, nome, email, data de nascimento e todas as especialidades dele. Há 7 especialidades: React, Redux, CSS, Testes, Typescript, Programação Orientada a Objetos e Backend
 
-3. Turma
+:file_folder: 3. Turma
 
     Toda turma é composta das seguintes características: id, nome, data de início, data de término, lista de professores responsáveis, uma lista de alunos e módulo atual em que a turma está.
 
@@ -50,26 +51,42 @@ As funcionalidades básicas são:
 
 → Pegar a idade de algum estudante a partir do id
 
-## Como rodar a aplicação
+## Como rodar a aplicação :arrow_forward:
 
-No terminal, clone o projeto:
-```
-git clone 
-```
+No terminal, clone o projeto: 
 
-Entre na pasta do projeto:
 ```
-cd labenuSystem
+git clonehttps://github.com/Erika-Skarda/API_Cookenu_2
 ```
-
-Instale as dependências:
+Entre no projeto e instale as dependências através do comando:
 ```
 npm install
 ```
-
-Execute a aplicação:
+Por último, suba a aplicação: 
 ```
-npm start 
+npm start
 ```
 
 <br>
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [Node](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://alligator.io/react/axios-react/)
+- [AWS](https://aws.google.com/)
+- [express](https://expressjs.com/)
+- [jwt](https://jwt.io/)
+- [knex](http://knexjs.org/)
+- [moment](https://momentjs.com/docs/)
+- [uuid](https://www.uuidgenerator.net/)
+- [bcrypt](https://www.npmjs.com/package/bcryptjs)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+
+## Desenvolvedor :computer:
+
+- <b>Erika</b> (https://github.com/Erika-Skarda)
+
+## Contato por :octocat:
+
+| [Likedin](https://www.linkedin.com/in/erika-skarda) | 
+| :---: |
