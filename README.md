@@ -18,6 +18,7 @@ Sistema de gerenciamento de estudantes, docentes e turmas organização Labenu.
 </p>
 
 </br>
+
 > Status do Projeto: Concluído :heavy_check_mark: 
 
 #### Requisitos obrigatórios
