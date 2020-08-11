@@ -7,6 +7,18 @@ Desenvolvimento de aplicações com backend com Node.js.
 Sistema de gerenciamento de estudantes, docentes e turmas organização Labenu.
 
 
+ <p align="center" >
+  <img width="20%" src="https://i.imgur.com/MagoMtL.png" />
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=REDUX"/>
+  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JAVASCRIPT"/>
+  <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
+
+</p>
+
 #### Requisitos obrigatórios
 Ele deve possuir, ao menos, as 3 entidades importantes:
 
