@@ -1,5 +1,6 @@
 #  <img  width='30' src='https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif'> Labenu | Full-Stack Web Development Bootcamp
-Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
+Desenvolvimento de aplicações com backend com Node.js.
+
 <br><br>
 
 ## Projeto: LabenuSystem
@@ -37,42 +38,6 @@ As funcionalidades básicas são:
 
 → Pegar a idade de algum estudante a partir do id
 
-#### Desafios
-
-Para todos os desafios abaixo, se esforce para usar o máximo os conceitos de OO que vimos neste módulo. Além disso, faça na ordem:
-
-1. Caso ainda não tenha feito, crie uma classe (`MainTaskManager`) que será responsável por rodar o seu código principal.
-
-
-2. Adicione mais duas funções para a classe `MainTaskManager`
-
-    a. Imprimir todos os alunos no console, no formato:
-
-    ```
-    Nome: <NOME DO ALUNO>
-    Email: <EMAIL DO ALUNO>
-    Curso: <CURSO DO ALUNO>
-    Turma: <TURMA DO ALUNO>
-    Idade: <IDADE DO ALUNO>
-    ```
-
-    b. Imprimir todos os professores no console
-
-    ```
-    Nome: <NOME DO PROFESSOR>
-    Email: <EMAIL DO PROFESSOR>
-    Idade: <IDADE DO PROFESSOR>
-    Especialiadades: OO, React e HTML
-    ```
-
-3. Modifique a origem do seu "banco de dados", agora, use um arquivo TXT. 
-4. Crie um script que receba dois argumentos: um para imprimir todos os alunos e outro para todos os professores. Siga esse formato
-
-    ```bash
-    npm run print teachers
-    npm run print students
-    ```
-<br><br>
 ## Como rodar a aplicação
 
 No terminal, clone o projeto:
